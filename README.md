@@ -14,12 +14,14 @@
   
   # Usage
   After you've installed the app, run `node index.js` and answer the questions provided to produce your readme. The program only fails if the username supplied does not match the  one listed on GitHub. But don't be concerned! To retry, just run node index.js again
-  # Contribution
-  Feel free to contribute to this project 
+
   # Links
   
+ # Contribution
+  Feel free to contribute to this project 
+
   # Contact-Information
   [Github Profile](https://github.com/Mahmoudcali02)
-  
+
   mahmoudcali2@gmail.com
   
