@@ -1,0 +1,23 @@
+{
+  "name": "readme-markdown-generator",
+  "version": "1.0.0",
+  "description": "A readme markdown generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahmoudcali02/Readme-markdown-generator.git"
+  },
+  "author": "Mahmoud Cali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahmoudcali02/Readme-markdown-generator/issues"
+  },
+  "homepage": "https://github.com/Mahmoudcali02/Readme-markdown-generator#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.0"
+  }
+}
